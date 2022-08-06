@@ -1,0 +1,27 @@
+/* .slider background image style */
+.slider-img{
+    height: 450px;
+    filter: brightness(50%);
+}
+/* button style  */
+.view-all,.start-btn{
+    background-color:#289BDE;
+    color: white;
+    border-radius: 5px;
+    padding: 11px 20px;
+    border: none;
+}
+.reg-btn{
+    background-color: white;
+    color:#289BDE;
+    border-radius: 5px;
+    padding: 11px 20px;
+    border: none ;
+}
+/* background style  */
+.reg-background{
+    background-color: #289BDE;
+}
+.footer-bg{
+    background-color:#161616;
+}
